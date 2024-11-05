@@ -1,0 +1,13 @@
+#hero-container {
+    margin-top: 3.7rem;
+}
+
+#hero-container>img {
+    width: 60%;
+    margin-left: 20%;
+    padding: 1.5rem 0;
+}
+
+#explore-button-container {
+    text-align: center;
+}
